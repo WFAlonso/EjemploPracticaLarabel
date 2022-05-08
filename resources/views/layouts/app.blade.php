@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Caterine Vanessa Wilmer Henrry
+                    APP Tareas: Wilmer Alonso - 80177224
                 </a>
             </div>
 
